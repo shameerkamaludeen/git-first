@@ -1,3 +1,3 @@
 ### Contribution
 -------------------
-**Note:**
+- Testing rebase first scenario (hotfix edit)
